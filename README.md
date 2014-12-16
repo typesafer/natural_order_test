@@ -1,7 +1,7 @@
 natural_order_test
 ==================
 
-test if a given array obeys the natural order of numbers
+test if a list of numbers are sequential
 
 source of the formula
 
